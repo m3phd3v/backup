@@ -12,6 +12,7 @@ Lightweight disc backup app written in php
 
 Install the dependencies then clone the repository.
 
+    mkdir <__DIR__>/Data
     cp <__DIR__>/Config/path.yml.sample <__DIR__>/Config/path.yml
     cp <__DIR__>/Config/source.yml.sample <__DIR__>/Config/path.yml
 
